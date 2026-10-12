@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.egg
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables & secrets
+.env
+.env.local
+
+# Output directory for generated documents
+output/
+temp/
+
+# Office temporary files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Testing & Linting cache
+.pytest_cache/
+.ruff_cache/
+
+# IDE
+.idea/
+*.swp
